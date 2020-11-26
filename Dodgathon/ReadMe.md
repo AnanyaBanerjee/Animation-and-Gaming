@@ -4,7 +4,7 @@
 
 > A short demo for the game is as shown below:
 
-![The Application](dodgathon_snapshot.mov)
+![Dodgathon](dodgathon_snapshot.gif)
 
 > To find the game, simply download the 'my_game.apk' and play it on your laptop.
 
