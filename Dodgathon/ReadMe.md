@@ -4,8 +4,8 @@
 
 > A short demo for the game is as shown below:
 
-![The Application](snapshot_game.mov)
+![The Application](snapshot_game.gif)
 
-> To find the game, simply download the 'm_game.apk' and play it on your laptop.
+> To find the game, simply download the 'my_game.apk' and play it on your laptop.
 
 You can use 'A' and 'D' keys to move left and right! Enjoy!
