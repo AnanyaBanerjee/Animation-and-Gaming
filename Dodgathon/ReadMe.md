@@ -1,6 +1,6 @@
 # **Welcome to my first 3d arcade game called 'Dodgathon'!.**
 
-#*This project is coded in C# and is a aracde game which can be played on macbooks, ios as well as android.*
+#*This project is coded in C# and is a arcade game which can be played on macbooks, ios as well as android.*
 
 > A short demo for the game is as shown below:
 
